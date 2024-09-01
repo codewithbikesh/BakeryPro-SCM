@@ -1,0 +1,1 @@
+This is a final year project done in core PHP. It is a supply chain application for bakery business.

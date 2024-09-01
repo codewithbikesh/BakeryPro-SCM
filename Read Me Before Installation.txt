@@ -1,0 +1,17 @@
+****** Copyright to Janam Pandey(NP000396) ******
+
+Login Details for Admin
+Username: admin
+Password: admin
+
+Login Details for Manufacturer
+Username: jeevan
+Password: admin
+
+Login Details for Retailer
+Username: itbsjanam
+Password: Janam123
+
+Database file is located inside database folder i.e. fyp.sql
+
+****** Copyright to Janam Pandey(NP000396) ******
